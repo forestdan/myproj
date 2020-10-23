@@ -25,3 +25,5 @@ Use in br-a, add tag-a
 new in br-a
 
 add master
+edit br-b
+edit2 br-b
