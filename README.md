@@ -22,5 +22,3 @@ qqqqqqqqqqqqqqqqqqqqq
 
 
 
-add tag-a
-Ready to br-a
