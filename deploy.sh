@@ -1,6 +1,6 @@
 #!/bin/sh -ex
 
-target_branch="br-dev"
+target_branch="br-web"
 git config --global user.name "CircleCI deployer"
 git config --global user.email "<>"
 git checkout $target_branch
